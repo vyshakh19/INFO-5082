@@ -1,4 +1,4 @@
-Coronavirus Disease abbreviated as COVID–19 is an infectious disease which affected people in different ways and the infected people have a wide range of symptoms reported – from mild symptoms to severe illness or even death, few people recovered without any special treatment. 
+Coronavirus Disease abbreviation as COVID–19 is an infectious disease which affected people in different ways and the infected people have a wide range of symptoms reported – from mild symptoms to severe illness or even death, few people recovered without any special treatment. 
 
 This Project focuses on using Machine Learning Model for Predicting COVID-19 cases for the next 60 days and thus these types of predictive models help in providing an accurate prediction of epidemics, which is essential for obtaining information on the likely spread and consequences of infectious diseases. I have chosen the dataset which is necessary to analyse the past and the current data to predict which country will be affected or will have more COVID-19 cases and deaths further. 
 
